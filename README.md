@@ -1,2 +1,2 @@
-# SpleeterWebUI
-A web interface for Spleeter
+# SpleeterWebUI https://ezstems.com/
+A web user interface for Spleeter.
